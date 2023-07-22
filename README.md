@@ -1,1 +1,1 @@
-SOme example test cases I made for presentation
+Some example test cases I made for presentation
